@@ -1,6 +1,9 @@
 
 # @vasugrover/hono-openapi
 
+> [!WARNING]
+> **This repository is now archived and read-only.** It is no longer actively maintained — no further commits, issues, or pull requests will be accepted. The code remains available for reference.
+
 Utilities, helpers, and schemas for building OpenAPI-compliant REST APIs with the Hono framework and Zod validation. This package standardizes API documentation, validation, and error handling for backend services, enabling consistent, type-safe, and well-documented APIs.
 
 ---
@@ -228,3 +231,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Support
 
 For questions or support, please open an issue on the GitHub repository.
+
+---
+
+**Status**: ⚠️ No longer maintained — this repository has been archived and is read-only. The npm package `@vasugrover/hono-openapi` is deprecated.
